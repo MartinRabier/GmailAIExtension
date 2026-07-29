@@ -23,6 +23,7 @@ Since this is a custom extension, you can install it in Developer Mode in under 
 ```bash
 git clone [https://github.com/MartinRabier/GmailAIExtension.git]
 cd nom-du-repo
+```
 
 ### 2. Configure Your API Key
 
