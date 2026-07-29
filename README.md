@@ -61,9 +61,10 @@ const CONFIG = {
 3. Enter a short instruction, for example:
 
    > *"Politely decline the meeting request and offer next Tuesday instead."*
-
-4. Click **Generate**.
-5. The AI will automatically write the response directly into the Gmail editor.
+---
+## 4. Click **Generate**.
+---
+## 5. The AI will automatically write the response directly into the Gmail editor.
 
 ---
 
